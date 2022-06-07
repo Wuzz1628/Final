@@ -11,6 +11,18 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: FaceBook
+    url: https://www.facebook.com/
+  - name: shopee
+    url: https://shopee.tw/?gclid=CjwKCAjw7vuUBhBUEiwAEdu2pFzDk-jeEmnaTE9ZikGmxpSA4KNMfnMuLmcb7oVGzS-WpB03XQhFVhoCWwMQAvD_BwE
+  - name: NCU
+    url: https://www.ncu.edu.tw/tw/index.html
+  - name: NCUMIS
+    url: https://im.mgt.ncu.edu.tw/
+  - name: Youtube
+    url: https://www.youtube.com/
+  - name: Error
+    url: https://123456789
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

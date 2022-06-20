@@ -112,18 +112,20 @@
     "url": "https://www.ncu.edu.tw/tw/index.html",
     "icon": "https://favicons.githubusercontent.com/www.ncu.edu.tw",
     "slug": "ncu",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2562,
     "timeDay": 1918,
     "timeWeek": 2540,
     "timeMonth": 2562,
     "timeYear": 2562,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-20": 1
+    }
   },
   {
     "name": "NCUMIS",
@@ -178,7 +180,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-20": 211,
+      "2022-06-20": 356,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
       "2022-06-17": 1440,
